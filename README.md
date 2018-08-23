@@ -1,2 +1,2 @@
 # github-training
-This is for github-git training purpose only
+This is for git-github training purpose only
